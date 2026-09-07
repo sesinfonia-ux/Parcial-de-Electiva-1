@@ -1,0 +1,14 @@
+D:\Usuarios\User\Documents\C#\Ejercicio 1\bin\Debug\net10.0\C#.exe
+D:\Usuarios\User\Documents\C#\Ejercicio 1\bin\Debug\net10.0\C#.deps.json
+D:\Usuarios\User\Documents\C#\Ejercicio 1\bin\Debug\net10.0\C#.runtimeconfig.json
+D:\Usuarios\User\Documents\C#\Ejercicio 1\bin\Debug\net10.0\C#.dll
+D:\Usuarios\User\Documents\C#\Ejercicio 1\bin\Debug\net10.0\C#.pdb
+D:\Usuarios\User\Documents\C#\Ejercicio 1\obj\Debug\net10.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\User\Documents\C#\Ejercicio 1\obj\Debug\net10.0\C#.AssemblyInfoInputs.cache
+D:\Usuarios\User\Documents\C#\Ejercicio 1\obj\Debug\net10.0\C#.AssemblyInfo.cs
+D:\Usuarios\User\Documents\C#\Ejercicio 1\obj\Debug\net10.0\C#.csproj.CoreCompileInputs.cache
+D:\Usuarios\User\Documents\C#\Ejercicio 1\obj\Debug\net10.0\C#.dll
+D:\Usuarios\User\Documents\C#\Ejercicio 1\obj\Debug\net10.0\refint\C#.dll
+D:\Usuarios\User\Documents\C#\Ejercicio 1\obj\Debug\net10.0\C#.pdb
+D:\Usuarios\User\Documents\C#\Ejercicio 1\obj\Debug\net10.0\C#.genruntimeconfig.cache
+D:\Usuarios\User\Documents\C#\Ejercicio 1\obj\Debug\net10.0\ref\C#.dll
