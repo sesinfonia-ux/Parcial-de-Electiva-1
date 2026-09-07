@@ -1,0 +1,14 @@
+D:\Usuarios\User\Documents\C#\Ejercicio 4\bin\Debug\net10.0\Ejercicio 4.exe
+D:\Usuarios\User\Documents\C#\Ejercicio 4\bin\Debug\net10.0\Ejercicio 4.deps.json
+D:\Usuarios\User\Documents\C#\Ejercicio 4\bin\Debug\net10.0\Ejercicio 4.runtimeconfig.json
+D:\Usuarios\User\Documents\C#\Ejercicio 4\bin\Debug\net10.0\Ejercicio 4.dll
+D:\Usuarios\User\Documents\C#\Ejercicio 4\bin\Debug\net10.0\Ejercicio 4.pdb
+D:\Usuarios\User\Documents\C#\Ejercicio 4\obj\Debug\net10.0\Ejercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\User\Documents\C#\Ejercicio 4\obj\Debug\net10.0\Ejercicio 4.AssemblyInfoInputs.cache
+D:\Usuarios\User\Documents\C#\Ejercicio 4\obj\Debug\net10.0\Ejercicio 4.AssemblyInfo.cs
+D:\Usuarios\User\Documents\C#\Ejercicio 4\obj\Debug\net10.0\Ejercicio 4.csproj.CoreCompileInputs.cache
+D:\Usuarios\User\Documents\C#\Ejercicio 4\obj\Debug\net10.0\Ejercicio 4.dll
+D:\Usuarios\User\Documents\C#\Ejercicio 4\obj\Debug\net10.0\refint\Ejercicio 4.dll
+D:\Usuarios\User\Documents\C#\Ejercicio 4\obj\Debug\net10.0\Ejercicio 4.pdb
+D:\Usuarios\User\Documents\C#\Ejercicio 4\obj\Debug\net10.0\Ejercicio 4.genruntimeconfig.cache
+D:\Usuarios\User\Documents\C#\Ejercicio 4\obj\Debug\net10.0\ref\Ejercicio 4.dll
